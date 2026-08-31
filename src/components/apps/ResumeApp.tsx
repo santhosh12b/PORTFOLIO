@@ -1,5 +1,6 @@
 
 import { FileText, Download, ExternalLink } from 'lucide-react';
+import resumePdf from '../../assets/Santhosh G.pdf';
 
 export default function ResumeApp() {
   return (
@@ -24,7 +25,7 @@ export default function ResumeApp() {
           
           <div className="flex gap-4 w-full md:w-auto">
             <a 
-              href="#" 
+              href={resumePdf}
               target="_blank"
               rel="noopener noreferrer"
               className="flex-1 md:flex-none flex items-center justify-center gap-2 px-6 py-3 bg-white/10 hover:bg-white/20 text-white font-bold uppercase tracking-wider rounded-xl border border-white/10 transition-colors text-sm"
@@ -32,8 +33,8 @@ export default function ResumeApp() {
               <ExternalLink className="w-4 h-4" /> View
             </a>
             <a 
-              href="#" 
-              download
+              href={resumePdf}
+              download="Santhosh_G_Resume.pdf"
               className="flex-1 md:flex-none flex items-center justify-center gap-2 px-6 py-3 bg-emerald-500 hover:bg-emerald-400 text-black font-bold uppercase tracking-wider rounded-xl transition-all shadow-[0_0_15px_rgba(16,185,129,0.2)] text-sm"
             >
               <Download className="w-4 h-4" /> Download
