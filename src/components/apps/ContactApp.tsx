@@ -90,7 +90,7 @@ export default function ContactApp() {
             </div>
             <span className="font-medium">LinkedIn</span>
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-white/80 hover:text-white transition-colors group">
+          <a href="https://github.com/santhosh12b" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-white/80 hover:text-white transition-colors group">
             <div className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center group-hover:bg-white/10 border border-white/5">
               <GithubIcon className="w-4 h-4" />
             </div>

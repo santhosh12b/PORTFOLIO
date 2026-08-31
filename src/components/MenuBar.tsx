@@ -76,13 +76,13 @@ export default function MenuBar() {
 
         {/* Social Icons */}
         <div className="flex items-center px-2 gap-3 hidden sm:flex text-white/70">
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors cursor-pointer">
+          <a href="https://github.com/santhosh12b" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors cursor-pointer">
             <GithubIcon className="w-[15px] h-[15px]" />
           </a>
           <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors cursor-pointer">
             <LinkedinIcon className="w-[15px] h-[15px]" />
           </a>
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors cursor-pointer">
+          <a href="https://www.instagram.com/__san1hosh__?igsi=MWkzanB2MWd1Nzh2NQ==" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors cursor-pointer">
             <InstagramIcon className="w-[15px] h-[15px]" />
           </a>
         </div>

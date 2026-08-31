@@ -27,7 +27,7 @@ interface DockItem {
 const DOCK_ITEMS: DockItem[] = [
   { id: 'about', title: 'About', icon: User, color: 'text-white', type: 'app' },
   { id: 'resume', title: 'Resume', icon: FileText, color: 'text-white', type: 'app' },
-  { id: 'instagram', title: 'Instagram', icon: InstagramIcon, color: 'text-white', type: 'link', url: 'https://instagram.com' },
+  { id: 'instagram', title: 'Instagram', icon: InstagramIcon, color: 'text-white', type: 'link', url: 'https://www.instagram.com/__san1hosh__?igsi=MWkzanB2MWd1Nzh2NQ==' },
   { id: 'desktop', title: 'Desktop', icon: Monitor, color: 'text-white', type: 'action' },
   { id: 'website', title: 'Portfolio', icon: Globe, color: 'text-white', type: 'link', url: 'https://santhos.design' }, // Example link
 ];
