@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ExternalLink, ArrowRight } from 'lucide-react';
 
 export default function ProjectsApp() {

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Send, CheckCircle, AlertCircle, Loader2 } from 'lucide-react';
 
 export default function StartProjectApp() {

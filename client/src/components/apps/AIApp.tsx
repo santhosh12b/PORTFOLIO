@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Settings, Zap, Users, Send, FileSpreadsheet, MessageCircle } from 'lucide-react';
 
 export default function AIApp() {

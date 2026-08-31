@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Desktop from './components/Desktop';
 import MenuBar from './components/MenuBar';
 import Dock from './components/Dock';
